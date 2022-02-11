@@ -1,0 +1,16 @@
+Action
+Adventure
+Animation
+Comedy
+Crime
+Drama
+Documentary
+Fantasy
+Fiction
+Historical
+Horror
+Musical
+Mystery
+Romance
+Scifi
+Thriller
