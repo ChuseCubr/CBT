@@ -1,4 +1,4 @@
-# CBT Script (Chase's Batch Tagging)
+# CBT Script (Chase's Batch Tagger)
 
 A script for tagging files and folders.
 
